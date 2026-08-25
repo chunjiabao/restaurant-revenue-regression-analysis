@@ -12,7 +12,7 @@ Three models were built and compared, each improving on the last:
 |---|---|---|---|---|
 | **Model 1** | Quantitative variables only | 0.2509 | 34,640.7 | Heteroscedastic |
 | **Model 2** | Full model (quantitative + dummy-coded categorical variables) | 0.8462 | 15,696.7 | Heteroscedastic |
-| **Model 3** | Log-transformed revenue, insignificant predictors removed | 0.90935 | 0.1393 | Randomly distributed ✅ |
+| **Model 3** | Log-transformed revenue, insignificant predictors removed | 0.90935 | 0.1393 | Randomly distributed  |
 
 Model 3 satisfies all MLR assumptions (linearity, homoscedasticity, no multicollinearity) and is the final model used for interpretation.
 
